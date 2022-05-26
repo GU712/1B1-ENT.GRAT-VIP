@@ -20,7 +20,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]CLIQUE AQUI E ACESSE O CONTEÚDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/1-CATEGORIAS-AVMTX</externallink>
 <thumbnail>https://i.ibb.co/6YmkH7P/ICONEENTRAR.png</thumbnail>
@@ -30,8 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
+
 <name>[COLOR white][B]CLIQUE AQUI E ACESSE O CONTEÚDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
 <thumbnail>https://i.ibb.co/6YmkH7P/ICONEENTRAR.png</thumbnail>
@@ -98,8 +98,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]ACESSO REDUZIDO [COLOR white]<-> ATÉ - 15-05-22 [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]TESTE ESTENDIDO [COLOR white]<-> VAL. ATÉ - 25-05-22 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
 <thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -110,24 +121,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]TESTE ESTENDIDO [COLOR white]<-> VAL. ATÉ - 25-05-22 [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 <name>[COLOR white][B]SOLICITE TESTE DE 24 HRs COM O SUPORTE [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
 <thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
